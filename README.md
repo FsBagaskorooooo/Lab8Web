@@ -57,7 +57,7 @@ Buat file baru dengan nama ubah.php
 ## Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
 
-![ss15](https://github.com/FsBagaskorooooo/Lab8Web./assets/130354090/71155db2-7cf4-49a2-a128-4ac127730951)4
+![ss15](https://github.com/FsBagaskorooooo/Lab8Web./assets/130354090/71155db2-7cf4-49a2-a128-4ac127730951)
 
 Klik hapus
 
